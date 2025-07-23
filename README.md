@@ -4,6 +4,12 @@ AudiaHub is a modern, web-based music player that lets users stream, search, and
 
 ---
 
+
+<img width="1919" height="1064" alt="Screenshot 2025-07-24 012326" src="https://github.com/user-attachments/assets/62da12c2-847f-4c2f-87e1-f4f09813513f" />
+
+
+<img width="1913" height="1043" alt="Screenshot 2025-07-24 012333" src="https://github.com/user-attachments/assets/3910ccf2-14fa-4a40-9807-b9ce7a32f15f" />
+
 ## 🚀 Features
 
 - **Stream Songs:** Listen to a curated collection of songs with album art and artist info.
@@ -17,6 +23,12 @@ AudiaHub is a modern, web-based music player that lets users stream, search, and
 - **Volume & Progress Controls:** Fine-tune your listening experience.
 
 ---
+Searching Songs Based on Genre
+
+<img width="1919" height="899" alt="Screenshot 2025-07-24 012451" src="https://github.com/user-attachments/assets/b6bc61ad-ea10-4b0d-b074-8fa12b185f9a" />
+
+
+<img width="1919" height="883" alt="Screenshot 2025-07-24 012503" src="https://github.com/user-attachments/assets/b3d18f33-2518-4261-8fc7-dc33d3dc4a88" />
 
 ## 🛠️ Tech Stack
 
